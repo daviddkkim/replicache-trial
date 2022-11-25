@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "nanoid": "^4.0.0",
     "next": "13.0.5",
+    "pg-promise": "^10.15.3",
+    "pusher": "^5.1.1-beta",
+    "pusher-js": "^7.5.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "replicache": "^11.2.0",
+    "replicache-react": "^2.10.0"
   },
   "devDependencies": {
     "@types/node": "18.11.9",
